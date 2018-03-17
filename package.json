@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rd": "rdcli"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.5",
     "mongoose": "^5.0.10",
+    "redis": "^2.8.0",
     "request": "^2.85.0"
   }
 }
